@@ -30,3 +30,7 @@ If you have any problem connecting to GitHub from DataGrip you can install the *
     ```
 1. In DataGrip, go to File -> Manage IDE Settings -> Settings Repository
 1. Enter the repo local path and pick overwrite local
+
+
+## How to use DataGrip?
+Read the following [internal guide](https://github.com/returnly/internal-wiki/blob/master/workstation/data_grip.md)
